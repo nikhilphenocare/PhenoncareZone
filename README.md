@@ -1,2 +1,2 @@
 # PhenoncareZone
-This is practise public repository which contains samples for AWS and DevOps
+This is public repository which contains samples for AWS and DevOps
